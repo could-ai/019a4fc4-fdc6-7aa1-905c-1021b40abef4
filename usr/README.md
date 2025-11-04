@@ -1,10 +1,10 @@
 # DAMRA SYSTEM
 
-A Flutter application for the DAMRA SYSTEM.
+A Flutter application for smart home control and automation.
 
 ## Getting Started
 
-This project is a starting point for the DAMRA SYSTEM Flutter application.
+This project is a starting point for the DAMRA SYSTEM smart home Flutter application.
 
 ### Prerequisites
 
@@ -15,12 +15,15 @@ This project is a starting point for the DAMRA SYSTEM Flutter application.
 
 1. Clone the repository
 2. Run `flutter pub get` to install dependencies
-3. Run `flutter run` to start the application
+3. Run `flutter run` to start the smart home dashboard
 
 ## Features
 
-- Welcome screen for DAMRA SYSTEM
-- Clean, modern UI using Flutter
+- Interactive smart home dashboard
+- Control common devices: lights, thermostat, security camera, door lock
+- Toggle device states with visual feedback
+- Mock data for demonstration (ready for Supabase backend integration)
+- Responsive grid layout for device cards
 
 ## Contributing
 
