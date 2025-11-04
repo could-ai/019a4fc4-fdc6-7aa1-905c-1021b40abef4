@@ -1,16 +1,31 @@
-# couldai_user_app
+# DAMRA SYSTEM
 
-A new Flutter project.
+A Flutter application for the DAMRA SYSTEM.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for the DAMRA SYSTEM Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK (^3.7.2)
+- Dart SDK (included with Flutter)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository
+2. Run `flutter pub get` to install dependencies
+3. Run `flutter run` to start the application
+
+## Features
+
+- Welcome screen for DAMRA SYSTEM
+- Clean, modern UI using Flutter
+
+## Contributing
+
+Please read the contributing guidelines before making contributions.
+
+## License
+
+This project is licensed under the MIT License.
